@@ -1,16 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# fullStack
+This is a repository for my full stack submissions
+I'm studying react, redux,mongo db, typescript and graph ql from the MOOC courses from the University of Helsinki.
+The goal of this is to for my research internship in a robotics lab summmer 2026 where I'm going to be buliding a web interface for users to be able to use the stretch robot easily.
+I have some knowlegde of Front-End Development however, with this, I will have Backend experience too to make me a well rounded software developer.
+>>>>>>> 03fcdaf46489c33fbcb8ba80f491e56a07df1276
